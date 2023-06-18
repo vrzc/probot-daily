@@ -1,0 +1,7 @@
+selenium
+webdriver_manager
+speechRecognition
+pydub
+undetected_chromedriver
+2captcha-python
+ultralytics
